@@ -1,0 +1,25 @@
+Git Practical: AI Project Gallery
+
+Objective
+
+To demonstrate repository cloning, forking, feature branch creation, commits, and pull requests using GitHub.
+
+Tasks Performed
+
+Cloned the original repository.
+
+Forked the repository into my GitHub account.
+
+Created a feature branch named GIT-EXAM.
+
+Added project documentation.
+
+Committed and published changes.
+
+Prepared the changes for a pull request.
+
+Reviewed changes and learned the merge conflict resolution process.
+
+Conclusion
+
+GitHub Desktop simplifies collaborative development by providing a graphical interface for branches, commits, publishing, and pull requests.
